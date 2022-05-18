@@ -20,3 +20,5 @@ C LANG
 [n even numbers.c](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/n%20even%20numbers.c)
 
 [reverse integers.c](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/reverse%20integer.c)
+
+[swaping using pointers](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/swapping%20using%20pointers.c)
