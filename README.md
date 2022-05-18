@@ -7,3 +7,5 @@ C LANG
 
 [2D arrays](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/2D%20array.c)
 
+[double linked list](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/DOUBLE%20LINKED%20LIST.c)
+
