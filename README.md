@@ -17,5 +17,6 @@ C LANG
 
 [binary tree.c](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/binary_tree.c)
 
-[n even numbers](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/n%20even%20numbers.c)
+[n even numbers.c](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/n%20even%20numbers.c)
 
+[reverse integers.c](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/reverse%20integer.c)
