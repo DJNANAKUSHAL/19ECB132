@@ -9,3 +9,4 @@ C LANG
 
 [double linked list](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/DOUBLE%20LINKED%20LIST.c)
 
+[add delete modify an element in array](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/add%2Cdelete%2Cmodify%20an%20element%20in%20an%20array.c)
