@@ -12,3 +12,6 @@ C LANG
 [add delete modify an element in array](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/add%2Cdelete%2Cmodify%20an%20element%20in%20an%20array.c)
 
 [add delete modify an element in a single linked list](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/add%2Cdelete%2Cmodify%20an%20element%20in%20an%20single%20linked%20list.c)
+
+[addition of matrix](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/addition%20of%20matrix.c)
+
