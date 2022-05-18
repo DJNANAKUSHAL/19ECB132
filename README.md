@@ -1,7 +1,7 @@
 # 19ECB132
 C LANG 
 
-[hello_world.c](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/hello%20world)  
+[hello_world.c]
 [positive_or_negetive.c](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/%2Bve%20or%20-ve.c)
 
 [2D_arrays.c](https://github.com/DJNANAKUSHAL/19ECB132/blob/main/2D%20array.c)
