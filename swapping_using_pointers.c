@@ -21,3 +21,10 @@ temp = *n1;
 *n1 = *n2;
 *n2 = temp;
 }
+/* output
+Before swapping 
+Number1 = 5
+Number2 = 10
+After swapping 
+Number1 = 10
+Number2 = 5 */
