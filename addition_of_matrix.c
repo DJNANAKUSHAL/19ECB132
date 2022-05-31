@@ -28,3 +28,26 @@
    }
  return 0;
 }
+/* output
+Enter the number of rows and columns of matrix
+2
+3
+Enter the elements of first matrix
+1
+2
+3
+4
+4
+5
+Enter the elements of second matrix
+1
+2
+
+3
+
+4
+5
+6
+Sum of entered matrices:-
+2   4   6
+8   9   11 */
