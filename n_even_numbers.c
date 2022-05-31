@@ -1,5 +1,5 @@
 #include<stdio.h>
-main()
+int main()
 { int i,n;
 printf("print all even numbers till:");
 scanf("%d", &n);
@@ -13,3 +13,8 @@ for(i=1;i<=n;i++)
 }
   return 0;
 }
+/* output
+print all even numbers till: 4
+even numbers from 1 to 4 are: 
+2
+4 */
