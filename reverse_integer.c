@@ -38,4 +38,6 @@ int checkPrime(int n) {
 
   return isPrime;
 }
-
+/* output
+Enter a positive integer: 4
+4 = 2 + 2 */
