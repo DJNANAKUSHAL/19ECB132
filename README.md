@@ -11,5 +11,6 @@
 [n_even_numbers.c](n_even_numbers.c)  
 [positove_or_negative.c](positove_or_negative.c)  
 [reverse_integer.c](reverse_integer.c)  
-[swapping_using_pointers.c](swapping_using_pointers.c)  
+[swapping_using_pointers.c](swapping_using_pointers.c)   
+[lettercount.c](lettercount.c)
 
